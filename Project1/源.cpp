@@ -14,5 +14,6 @@ int main()
 		imshow("∂¡»° ”∆µ", frame);
 		waitKey(30);	//—” ±30
 	}
+
 	return 0;
 }
